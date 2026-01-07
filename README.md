@@ -39,13 +39,11 @@ This project was created as part of my **Web Development Internship tasks**.
 ---
 
 ## 🔗 Live Demo
-(Add GitHub Pages link here)
-
+https://catherinajercy2007.github.io/todo-app/
 ---
 
 ## 📂 Repository
-(Add GitHub repository link here)
-
+https://github.com/catherinajercy2007/todo-app
 ---
 
 ## 📌 Key Learnings
